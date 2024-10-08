@@ -9,4 +9,4 @@
 ``` mvn clean package ```
 
 #### HOW TO START WEBSITE
-''' java -jar target/hello-world-web-1.0.0.jar ```
+``` java -jar target/hello-world-web-1.0.0.jar ```
